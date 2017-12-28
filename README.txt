@@ -1,3 +1,3 @@
 this is first read me file 
 
-explaining how github works .....
+new second line added
